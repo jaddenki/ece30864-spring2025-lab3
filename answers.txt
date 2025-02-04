@@ -1,1 +1,8 @@
-fsdfsdf
+1. 
+Two Pros of Agile Development
+- uses regular iterations and stakeholder feedback, improving product quality by helping identify and solve issueas early
+- agile development allows the users/teams to respond quickly to changes in requirements due to the iterative process
+Two Cons of Agile Development
+- timelines and budget may be harder to estimate because requirements may change through each iteration
+- there needs to be high team commitment-- Agile inherently demands consistent communication and engagement, which could be hard for part-time or distributed teams
+
