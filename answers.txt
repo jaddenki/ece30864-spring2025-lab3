@@ -6,3 +6,22 @@ Two Cons of Agile Development
 - timelines and budget may be harder to estimate because requirements may change through each iteration
 - there needs to be high team commitment-- Agile inherently demands consistent communication and engagement, which could be hard for part-time or distributed teams
 
+2. 
+Scrum Master Roles & Responsibilities:
+- essentially the coach & facilitator for the SCRUM team, focusing on efficiency
+- For example, they:
+   - facilitate Scrum events like sprint planning, review, and retrospectives
+   - protect the team from external distractions
+   - coach the team & stakeholders on Agile principles and practices
+   - ensure the team follows Scrum processes
+
+Product Owner Roles & Responsibilities:
+- they represent the voice of the customer & defines + prioritizes the product backlog & general product direction
+- To illustrate, they:
+   - communicate the vision & goals of the product
+   - create and manage the product backlog
+   - ensure the development team understands the requirements & user needs
+   - collaborate with stakeholders to gather & refine requirements
+   - accept or reject work that was completed during a sprint based on defined criteria.
+
+
