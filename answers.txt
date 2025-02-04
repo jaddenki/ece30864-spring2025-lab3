@@ -24,4 +24,14 @@ Product Owner Roles & Responsibilities:
    - collaborate with stakeholders to gather & refine requirements
    - accept or reject work that was completed during a sprint based on defined criteria.
 
+3.  Types of sprint cycle meetings
 
+Sprint Planning Meetings
+- they define the overarching objective for the upcoming sprint, ensuring it aligns with the project's overall goals
+- the product backlog is reviewed. Items are prioritized and tasks are assigned to team members
+Daily Scrum (stand up) Meetings
+- team members discuss what they accomplished the previous day, what they plan on doing today, and any blockers/challenges they are facing
+- obstacles or impediments (blockers) are discussed, and team members plan on how to address them
+Sprint Review Meetings
+- the development team presents the work completed during the sprint to stakeholders, showcasing potentially shippable incrementations of the product
+- feedback is gathered from stakeholders on the work that is presented. this helps adjust priorities for the next sprint
