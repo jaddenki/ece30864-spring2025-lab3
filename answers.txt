@@ -35,3 +35,13 @@ Daily Scrum (stand up) Meetings
 Sprint Review Meetings
 - the development team presents the work completed during the sprint to stakeholders, showcasing potentially shippable incrementations of the product
 - feedback is gathered from stakeholders on the work that is presented. this helps adjust priorities for the next sprint
+
+4.
+Epic:
+A very high level view of a projects progress. Epics are large bodies of work that can be broken down into smaller tasks. They group together related stories, tasks, and bugs. An example would be "New User Interface for Web Application"
+Story:
+A specific requirement of piece of functionality, usually written from the user's perspective to capture user requirements. These are usually smaller than epics but help in understanding what needs to be built. An example would be "As a user, I want to be able to ---"
+Bug:
+A bug is an issue that negatively impacts the functionality of a software app. It's a problem that needs to be fixed. An example of a bug would be when a software application crashes when a specific button is clicked.
+Task:
+A task is just a piece of work that needs to be done. This can be related to a story, bug, or any other type. They just help in organizing and tracking progress. An example would be testing a new feature in a software app.
